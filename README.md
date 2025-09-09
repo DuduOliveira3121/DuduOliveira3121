@@ -7,8 +7,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduOliveira3121how_icons=true&theme=dracula)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduOliveira3121&layout=compact&theme=dracula)
 
 ---
 
@@ -22,9 +22,9 @@
 ---
 
 ## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/eduardo-oliveira-050908300)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)]([https://www.instagram.com/duduoliveira3103/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eduardo-oliveira-050908300)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/duduoliveira3103/)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DuduOliveira3121&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=DuduOliveira3121&color=red)
