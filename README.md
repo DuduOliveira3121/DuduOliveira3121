@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DuduOliveira3121&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DuduOliveira3121&color=red&style=flat-square" alt="Profile views"/>
 </p>
