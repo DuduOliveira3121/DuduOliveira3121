@@ -7,7 +7,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduOliveira3121how_icons=true&theme=dracula)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduOliveira3121&how_icons=true&theme=dracula)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduOliveira3121&layout=compact&theme=dracula)
 
 ---
