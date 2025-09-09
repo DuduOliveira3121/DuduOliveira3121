@@ -39,8 +39,8 @@
 
 ---
 
-> *“Eu diria: 'Que a Força esteja com você'...*  
-> *Mas é melhor dizer: Que **Deus** esteja com você!"*
+> *Eu diria: 'Que a Força esteja com você'...*  
+> *Mas é melhor dizer: Que **Deus** esteja com você!*
 
 ⚡ Mídias que me inspiram no mundo da tecnologia e cyberpunk:
 - 🤖 **O Exterminador do Futuro (Terminator)**  
