@@ -7,8 +7,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduOliveira3121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduOliveira3121&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduOliveira3121&show_icons=true&theme=dracula&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduOliveira3121&layout=donut&theme=dracula&hide_border=true)
 
 ---
 
