@@ -6,15 +6,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuduOliveira3121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DuduOliveira3121&layout=donut&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🛠️ Tecnologias que uso  
 
 <p align="center">
